@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.active{
+  color: purple;  /* Active link ka color red ho jayega */
+}
+
+
+
+
+
