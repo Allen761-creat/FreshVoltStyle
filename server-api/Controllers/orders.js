@@ -1,4 +1,4 @@
-import Order from '../models/ordersmodels.js';
+import Order from '../Models/ordersmodels.js';
 
 
 const fetchUserOrders =async (req, res) => {
